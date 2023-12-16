@@ -1,6 +1,6 @@
 
-const API_KEY = AIzaSyBdAAkI7sKy7Mker2N7IoKm8VwH9JTDBWk;
-const VIDEO_ID = XETTqjJ8mOE; 
+const API_KEY = "AIzaSyBdAAkI7sKy7Mker2N7IoKm8VwH9JTDBWk";
+const VIDEO_ID = "XETTqjJ8mOE"; 
 
 
 const tag = document.createElement('script');
